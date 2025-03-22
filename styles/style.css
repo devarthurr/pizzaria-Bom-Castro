@@ -119,5 +119,17 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+.cabecalho {
+    padding: 10%;
+}
+
+.cabecalho__menu {
+   justify-content: center;
+}
+
+.apresentacao {
+    flex: column-reverse;
+}
+
 
 
